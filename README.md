@@ -17,7 +17,9 @@ The application allows user to select a particular folder  or any music file tha
 4. Unpause the music
 5. Volume Up
 6. Volume Down
-7. Also i have added some extra images that when a user play a song it will acts like animation
+7. Mute Function for Mute the song
+8. Unmute Function for unmute the song
+9. Also i have added some extra images that when a user play a song it will acts like animation
 # Prerequisites
 This code will run only on Python3.X
 You need to have Python3.X on your PC, you can [Download here](https://www.python.org/downloads/)
